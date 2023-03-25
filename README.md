@@ -10,7 +10,9 @@ This project was completed as a part of the curriculum for a software developmen
 Language: C
 Editor: VIM 
 Compiler: gcc 
-The directory contents should be compiled with the following command:
+The directory contents should be compiled with the following command: <br />
 <code> gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -o printf </code>
+Each file meet with the betty documentation and styles <br />
+<code> betty *.c *.h </code>
 
 
