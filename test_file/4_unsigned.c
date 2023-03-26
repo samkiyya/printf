@@ -4,7 +4,7 @@
 
 /**
  * Command to run test:
- * gcc ./tests/4_unsigned.c _printf.c handle_print.c functions.c utils.c get_flags.c get_width.c write_handlers.c
+ * gcc ./test_file/4_unsigned.c _printf.c handle_print.c functions.c utils.c get_flags.c get_width.c write_handlers.c
  */
 int main(void)
 {
